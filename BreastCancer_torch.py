@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 12 12:44:14 2024
-
-@author: Yamaç
-"""
-
 from ucimlrepo import fetch_ucirepo 
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
